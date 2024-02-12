@@ -1,1 +1,2 @@
 NOWAK Ugo PARDO Tom 
+Le fichier se trouvait initialement dans la branche par d‚faut master, avec la commande "git add" et "git commit" nous l'avons d‚plac‚ dans une nouvelle branche. Ainsi ce dernier n'apparait plus dans master. 
